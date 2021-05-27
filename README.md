@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hey i'm Leonardo Eugenio ! 👏
 
-<!--
-**leonardoEugenio/leonardoEugenio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - 🎓I study systems development;
+- 💻I love the tecnologie and your posibilites;
+- 🌠I hope that with my projects I can learn more and help others;
 
-Here are some ideas to get you started:
+## status 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - i'm happy 😁;
+ - Working: at the moment only in projects;
+ - I living: Piracicaba, São Paulo  Brazil;
+
+### I hope to work with you
