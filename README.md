@@ -7,7 +7,7 @@
 ## status 
 
  - i'm happy 😁;
- - Working: at the moment only in projects;
+ - Working: in TBRWeb;
  - I living: Piracicaba, São Paulo  Brazil;
 
 ### I hope to work with you
