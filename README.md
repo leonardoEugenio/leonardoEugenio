@@ -6,7 +6,6 @@
 
 ## status 
 
- - i'm happy 😁;
  - Working: in TBRWeb;
  - I living: Piracicaba, São Paulo  Brazil;
 
